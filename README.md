@@ -12,7 +12,7 @@
 
 <br><br>
 
-<a href="https://github.com/rahman-q-gen">
+
 <img src="https://img.shields.io/badge/GITHUB-rahman--q--gen-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -43,11 +43,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:00E5FF,30:6C2BFF,65:C800FF,100:FF006E&text=MD.%20ABDUR%20RAHMAN&fontColor=FFFFFF&fontSize=50&fontAlignY=36&animation=fadeIn&desc=IT%20Professional%20%E2%80%A2%20Graphic%20Designer%20%E2%80%A2%20Data%20Management%20Specialist&descSize=18&descAlignY=56"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=25&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&width=900&height=65&lines=💻+IT+Professional+%26+Digital+Problem+Solver;🎨+Graphic+Designer+%26+Creative+Thinker;📊+Data+Management+Specialist;📽️+Presentation+%26+Document+Designer;✨+Turning+Ideas+Into+Professional+Solutions"/>
 
-<br>
 
 
 
