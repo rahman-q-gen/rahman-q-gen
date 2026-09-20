@@ -498,7 +498,7 @@ General IT Support
 <td width="55%" valign="top">
 
 
-
+<div align="center">
 ### 📧 `md.abdur.rahman.career@gmail.com`
 
 ### 💻 `github.com/rahman-q-gen`
@@ -510,7 +510,7 @@ General IT Support
 <br>
 
 
-<div align="center">
+
 
 ### ⭐ `THANK YOU FOR VISITING` ⭐
 
