@@ -558,40 +558,6 @@ LMS READY
 
 <br><br>
 
-### 🌈 `IDEA → CREATIVITY → TECHNOLOGY → STRUCTURE → POLISHING → PROFESSIONAL RESULT`
-
-<br>
-
-### ✨ `THINK • DESIGN • ORGANIZE • CREATE • IMPROVE`
-
-</div>
-
-<br>
-
----
-### 🌈 `IDEA → CREATIVITY → TECHNOLOGY → STRUCTURE → POLISHING → PROFESSIONAL RESULT`
-
-<br>
-
-> **💡 Creativity gives ideas a shape • 💻 Technology makes them possible • ✨ Polishing makes them professional**
-
-</div>
-
-<br>
-
----
-
-<br>
-
-### `THINK • DESIGN • ORGANIZE • CREATE • IMPROVE`
-
-</div>
-
-<br>
-
----
-
-<div align="center">
 
 # 🌌 PROFESSIONAL MINDSET
 
