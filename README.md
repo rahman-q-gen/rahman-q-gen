@@ -1,19 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,25:16213E,50:5B21B6,75:D946EF,100:EC4899&height=180&section=header&text=MD.%20ABDUR%20RAHMAN&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=IT%20Professional%20•%20Graphic%20Designer%20•%20Data%20Management%20Specialist&descAlignY=72&descSize=18"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=42&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=MD.+ABDUR+RAHMAN;MD.+ABDUR+RAHMAN;MD.+ABDUR+RAHMAN" alt="Name Typing Animation" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=34&duration=2400&pause=800&color=FF4ECD&center=true&vCenter=true&repeat=true&width=850&height=60&lines=MD.+ABDUR+RAHMAN;Professional+Digital+Creator;Creative+%26+Organized+Problem+Solver" alt="Animated Title" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=1000&height=50&lines=IT+Professional+•+Graphic+Designer+•+Data+Management+Specialist;Document+Formatting+•+Presentation+Design+•+Digital+Solutions" alt="Animated Subtitle" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=1000&height=55&lines=IT+Professional;Graphic+Designer;Data+Management+Specialist;IT+Professional+•+Graphic+Designer+•+Data+Management+Specialist" alt="Role Typing Animation" />
 
 </div>
-
-<div align="center">
-
 
 
 
