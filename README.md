@@ -93,7 +93,7 @@ I enjoy transforming raw information and ideas into work that is **organized, pr
 <table>
 <tr>
 
-<td width="25%" align="center">
+<div align="center">
 <br>
 <h2>💻</h2>
 <h3>IT</h3>
@@ -105,7 +105,7 @@ Technical Workflow
 <br><br>
 </td>
 
-<td width="25%" align="center">
+<div align="center">
 <br>
 <h2>📊</h2>
 <h3>DATA</h3>
@@ -117,7 +117,7 @@ Data Management
 <br><br>
 </td>
 
-<td width="25%" align="center">
+<div align="center">
 <br>
 <h2>🎨</h2>
 <h3>DESIGN</h3>
@@ -129,7 +129,7 @@ Visual Content
 <br><br>
 </td>
 
-<td width="25%" align="center">
+<div align="center">
 <br>
 <h2>📽️</h2>
 <h3>OFFICE</h3>
