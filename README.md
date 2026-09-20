@@ -261,65 +261,79 @@ General IT Support
 <div align="center">
 
 # 🚀 FEATURED PROJECT
+<br>
 
-## 📘 LMS QUESTION BANK CONVERTER
+<div align="center">
 
-### `SMART MCQ → LMS CSV WORKFLOW`
+## 🚀 LMS QUESTION BANK CONVERTER
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=22&duration=2400&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=SMART+MCQ+→+LMS+CSV+WORKFLOW;QUESTION+BANK+→+PROCESSING+→+FORMATTING+→+CSV+→+LMS+READY" />
+
+<br><br>
+
+<img
+  src="./lms-workflow-3d.png"
+  width="92%"
+  alt="3D LMS Workflow"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📄_QUESTION_BANK-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⚙️_MCQ_PROCESSING-7C4DFF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/✍️_FORMATTING-FF3CAC?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📑_CSV_CONVERSION-2979FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🎓_LMS_READY-00E676?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
+
+### ⚡ `QUESTION BANK → MCQ PROCESSING → FORMATTING → CSV CONVERSION → LMS READY`
 
 </div>
 
+<br>
+
 <table>
 <tr>
-<td width="58%" valign="top">
+
+<td width="55%" valign="top">
 
 ### 💡 Project Overview
 
 A specialized workflow designed to convert **MCQ Question Banks** into structured, clean, and **LMS-compatible CSV files**.
 
-It is designed to make academic question-bank preparation faster and easier while maintaining proper formatting.
+It helps make academic question-bank preparation faster, more organized, and easier to import into Learning Management Systems.
 
 ### ⚡ Core Features
 
-* ✅ MCQ Question Conversion
-* ✅ LMS-Compatible CSV Output
-* ✅ Mathematical Notation Support
-* ✅ LaTeX Equation Support
-* ✅ Structured Question Formatting
-* ✅ Answer Organization
-* ✅ Bulk Processing
-* ✅ Efficient Question Management
+- ✅ MCQ Question Conversion
+- ✅ LMS-Compatible CSV Output
+- ✅ Mathematical Notation Support
+- ✅ LaTeX Equation Support
+- ✅ Structured Question Formatting
+- ✅ Answer Organization
+- ✅ Bulk Processing
+- ✅ Efficient Question Management
 
 </td>
 
-<td width="42%" align="center">
+<td width="45%" align="center">
 
-<br>
-
-### 🎯 WORKFLOW
+### 🎯 Workflow Stages
 
 ```text
 QUESTION BANK
-     │
-     ▼
+      ↓
 MCQ PROCESSING
-     │
-     ▼
+      ↓
 FORMATTING
-     │
-     ▼
+      ↓
 CSV CONVERSION
-     │
-     ▼
+      ↓
 LMS READY
-```
 
-</td>
-</tr>
-</table>
 
-<br>
 
----
 
 <div align="center">
 
