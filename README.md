@@ -12,11 +12,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2100&pause=550&color=FF4ECD&center=true&vCenter=true&repeat=true&width=1050&height=55&lines=💻+IT+Professional;🎨+Graphic+Designer;📊+Data+Management+Specialist;📝+Document+Formatting+Expert;📽️+Presentation+Designer;🚀+Creative+Digital+Solutions" alt="Animated Profession"/>
 
-<br><br>
 
-<a href="https://github.com/rahman-q-gen">
-<img src="https://img.shields.io/badge/GITHUB-rahman--q--gen-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="mailto:md.abdur.rahman.career@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
