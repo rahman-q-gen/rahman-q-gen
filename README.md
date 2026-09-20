@@ -188,37 +188,13 @@ Formatting
 
 <div align="center">
 
-# ✨ CORE EXPERTISE
+<div align="center">
+
+## ✨ CORE EXPERTISE
+
+<img src="./core-expertise-3d.svg" width="100%" alt="3D Core Expertise">
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Productivity & Data
-
-```text
-Microsoft Excel       █████████░
-Data Management       █████████░
-Data Entry            ████████░░
-Document Formatting   █████████░
-File Organization     ████████░░
-````
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎨 Creative Design
-
-```text
-Photoshop             ████████░░
-Illustrator           ███████░░░
-Banner Design         ████████░░
-Poster Design         ████████░░
-Presentation Design   █████████░
-```
 
 </td>
 </tr>
