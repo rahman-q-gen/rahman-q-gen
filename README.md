@@ -374,37 +374,7 @@ LMS READY
 
 <div align="center">
 
-# 📊 GITHUB COMMAND CENTER
 
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahman-q-gen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=FF006E&ring_color=8A2BE2&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahman-q-gen&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00E5FF&fire=FF006E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E"/>
-
-<br><br>
-
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahman-q-gen&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4ECD&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# ⚡ CONTRIBUTION MATRIX
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahman-q-gen&bg_color=0D1117&color=00E5FF&line=C800FF&point=FF006E&area=true&area_color=6C2BFF&hide_border=true&custom_title=My%20GitHub%20Activity"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
 
 # 🏆 ACHIEVEMENT WALL
 
