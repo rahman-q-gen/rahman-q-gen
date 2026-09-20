@@ -1,4 +1,47 @@
+<!-- ===================== PREMIUM ANIMATED HEADER ===================== -->
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00E5FF,25:2563EB,50:7C3AED,75:E100FF,100:FF2D95&text=MD.%20ABDUR%20RAHMAN&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=IT%20Professional%20%7C%20Graphic%20Designer%20%7C%20Data%20Management%20Specialist&descAlignY=57&descSize=18"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=35&duration=2200&pause=650&color=00E5FF&center=true&vCenter=true&repeat=true&width=950&height=65&lines=✨+MD.+ABDUR+RAHMAN+✨;💻+MD.+ABDUR+RAHMAN+💻;🎨+MD.+ABDUR+RAHMAN+🎨;🚀+MD.+ABDUR+RAHMAN+🚀" alt="Animated Name"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2100&pause=550&color=FF4ECD&center=true&vCenter=true&repeat=true&width=1050&height=55&lines=💻+IT+Professional;🎨+Graphic+Designer;📊+Data+Management+Specialist;📝+Document+Formatting+Expert;📽️+Presentation+Designer;🚀+Creative+Digital+Solutions" alt="Animated Profession"/>
+
+<br><br>
+
+<a href="https://github.com/rahman-q-gen">
+<img src="https://img.shields.io/badge/GITHUB-rahman--q--gen-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:md.abdur.rahman.career@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rahman-q-gen&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CREATIVE-FF2D95?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PROFESSIONAL-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TECH%20FOCUSED-00B8D4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20PROJECTS-00C853?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=FFD600&center=true&vCenter=true&repeat=true&width=900&height=45&lines=💡+Creativity+%2B+Technology+%2B+Organization;⚡+Turning+Ideas+Into+Digital+Solutions;🌈+Think+•+Design+•+Create+•+Improve" alt="Animated Motto"/>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,25:2563EB,50:7C3AED,75:E100FF,100:FF2D95"/>
+
+</div>
+
+<!-- ===================== END HEADER ===================== -->
 
 <div align="center">
 
