@@ -18,9 +18,7 @@
 <img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rahman-q-gen&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
-<br><br>
 
 <img src="https://img.shields.io/badge/CREATIVE-FF2D95?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/PROFESSIONAL-7C3AED?style=for-the-badge&labelColor=0D1117"/>
