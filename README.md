@@ -86,67 +86,7 @@ I enjoy transforming raw information and ideas into work that is **organized, pr
 
 <div align="center">
 
-# ◈ PROFESSIONAL IDENTITY ◈
 
-</div>
-
-<table>
-<tr>
-
-<div align="center">
-<br>
-<h2>💻</h2>
-<h3>IT</h3>
-<b>Professional</b>
-<br><br>
-Computer Operations<br>
-Digital Solutions<br>
-Technical Workflow
-<br><br>
-</td>
-
-<div align="center">
-<br>
-<h2>📊</h2>
-<h3>DATA</h3>
-<b>Specialist</b>
-<br><br>
-Excel<br>
-Data Entry<br>
-Data Management
-<br><br>
-</td>
-
-<div align="center">
-<br>
-<h2>🎨</h2>
-<h3>DESIGN</h3>
-<b>Creative</b>
-<br><br>
-Photoshop<br>
-Illustrator<br>
-Visual Content
-<br><br>
-</td>
-
-<div align="center">
-<br>
-<h2>📽️</h2>
-<h3>OFFICE</h3>
-<b>Productivity</b>
-<br><br>
-Word<br>
-PowerPoint<br>
-Formatting
-<br><br>
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
 
 <div align="center">
 
