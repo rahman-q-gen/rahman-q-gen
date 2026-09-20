@@ -1,30 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:FF1744,20:FF9100,40:FFD600,60:00E676,80:00B0FF,100:AA00FF&text=MD.%20ABDUR%20RAHMAN&fontColor=FFFFFF&fontSize=48&fontAlignY=36&animation=fadeIn&desc=IT%20Professional%20%7C%20Graphic%20Designer%20%7C%20Data%20Management%20Specialist&descSize=18&descAlignY=56"/>
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=800&color=FF4ECD&center=true&vCenter=true&width=900&height=70&lines=💻+IT+Professional;🎨+Creative+Graphic+Designer;📊+Data+Management+Specialist;📽️+Presentation+Designer;📝+Document+Formatting+Expert;🚀+Building+Creative+Digital+Solutions"/>
-
-<br>
-
-
-
-<a href="mailto:md.abdur.rahman.career@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=rahman-q-gen&label=PROFILE%20VIEWS&color=FF00CC&style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🌈-CREATIVE-FF1744?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡-PRODUCTIVE-FF9100?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻-TECH%20LOVER-00B0FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀-OPEN%20TO%20PROJECTS-AA00FF?style=for-the-badge"/>
-
-</div>
-
----
 
 
 <div align="center">
