@@ -464,31 +464,6 @@ General IT Support
 
 <br><br>
 
-### 📧 `md.abdur.rahman.career@gmail.com`
-
-### 💻 `github.com/rahman-q-gen`
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=820&height=65&lines=✨+Thank+You+For+Visiting+My+Profile!;🚀+Explore+My+Projects+%26+Ideas;🤝+Let's+Connect+%26+Create;💜+Have+an+Amazing+Day!"/>
-
-<br>
-
-
-
-
-### ⭐ `THANK YOU FOR VISITING` ⭐
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:FF006E,35:C800FF,65:6C2BFF,100:00E5FF"/>
-
-</div>
-```
-<br>
-
-<div align="center">
-
 ## 🚀 LMS QUESTION BANK CONVERTER
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=22&duration=2400&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=SMART+MCQ+→+LMS+CSV+WORKFLOW;QUESTION+BANK+→+PROCESSING+→+FORMATTING+→+CSV+→+LMS+READY" />
@@ -522,37 +497,32 @@ General IT Support
 
 <td width="55%" valign="top">
 
-### 💡 Project Overview
 
-A specialized workflow designed to convert **MCQ Question Banks** into structured, clean, and **LMS-compatible CSV files**.
 
-It helps make academic question-bank preparation faster, more organized, and easier to import into Learning Management Systems.
+### 📧 `md.abdur.rahman.career@gmail.com`
 
-### ⚡ Core Features
+### 💻 `github.com/rahman-q-gen`
 
-- ✅ MCQ Question Conversion
-- ✅ LMS-Compatible CSV Output
-- ✅ Mathematical Notation Support
-- ✅ LaTeX Equation Support
-- ✅ Structured Question Formatting
-- ✅ Answer Organization
-- ✅ Bulk Processing
-- ✅ Efficient Question Management
+<br>
 
-</td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=820&height=65&lines=✨+Thank+You+For+Visiting+My+Profile!;🚀+Explore+My+Projects+%26+Ideas;🤝+Let's+Connect+%26+Create;💜+Have+an+Amazing+Day!"/>
 
-<td width="45%" align="center">
+<br>
 
-### 🎯 Workflow Stages
 
-```text
-QUESTION BANK
-      ↓
-MCQ PROCESSING
-      ↓
-FORMATTING
-      ↓
-CSV CONVERSION
-      ↓
-LMS READY
+
+
+### ⭐ `THANK YOU FOR VISITING` ⭐
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:FF006E,35:C800FF,65:6C2BFF,100:00E5FF"/>
+
+</div>
+```
+<br>
+
+<div align="center">
+
+
 
