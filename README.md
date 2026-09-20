@@ -530,26 +530,43 @@ LMS READY
 
 <div align="center">
 
-# 🧠 MY DIGITAL PHILOSOPHY
+<br>
 
-```text
-                    ✦ IDEA ✦
-                       │
-                       ▼
-                 🎨 CREATIVITY
-                       │
-                       ▼
-                 💻 TECHNOLOGY
-                       │
-                       ▼
-                 📊 STRUCTURE
-                       │
-                       ▼
-                ✨ POLISHING
-                       │
-                       ▼
-            🚀 PROFESSIONAL RESULT
-```
+<div align="center">
+
+## 🧠 MY DIGITAL PHILOSOPHY
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=45&lines=✨+From+Ideas+to+Professional+Results;🎨+Creativity+Meets+Technology;🚀+Think+•+Design+•+Create+•+Improve" />
+
+<br><br>
+
+<img
+  src="./assets/my-digital-philosophy.png"
+  width="95%"
+  alt="My Digital Philosophy - 3D Neon Workflow"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💡_THINK-00E5FF?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/🎨_DESIGN-FF3CAC?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/📊_ORGANIZE-8A2BE2?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/🚀_CREATE-FF9800?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/✨_IMPROVE-00E676?style=for-the-badge&labelColor=111827"/>
+
+<br><br>
+
+### 🌈 `IDEA → CREATIVITY → TECHNOLOGY → STRUCTURE → POLISHING → PROFESSIONAL RESULT`
+
+<br>
+
+> **💡 Creativity gives ideas a shape • 💻 Technology makes them possible • ✨ Polishing makes them professional**
+
+</div>
+
+<br>
+
+---
 
 <br>
 
