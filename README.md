@@ -7,9 +7,7 @@
 
 <br>
 
-<a href="https://github.com/rahman-q-gen">
-<img src="https://img.shields.io/badge/GitHub-rahman--q--gen-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 <a href="mailto:md.abdur.rahman.career@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
