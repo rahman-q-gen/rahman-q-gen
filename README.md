@@ -49,17 +49,7 @@
 
 <br>
 
-<a href="https://github.com/rahman-q-gen">
-<img src="https://img.shields.io/badge/GITHUB-RAHMAN--Q--GEN-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="mailto:md.abdur.rahman.career@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=rahman-q-gen&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge"/>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/✦-CREATIVE-FF006E?style=flat-square"/>
 <img src="https://img.shields.io/badge/✦-PROFESSIONAL-7C4DFF?style=flat-square"/>
