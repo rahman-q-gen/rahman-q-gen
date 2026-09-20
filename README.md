@@ -1,8 +1,3 @@
-````md
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║          MD. ABDUR RAHMAN • PREMIUM GITHUB PROFILE         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:00E5FF,30:6C2BFF,65:C800FF,100:FF006E&text=MD.%20ABDUR%20RAHMAN&fontColor=FFFFFF&fontSize=50&fontAlignY=36&animation=fadeIn&desc=IT%20Professional%20%E2%80%A2%20Graphic%20Designer%20%E2%80%A2%20Data%20Management%20Specialist&descSize=18&descAlignY=56"/>
