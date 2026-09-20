@@ -1,0 +1,192 @@
+<svg width="1100" height="640" viewBox="0 0 1100 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.45" stop-color="#10142E"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+
+    <linearGradient id="card1" x1="80" y1="170" x2="515" y2="550" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D2C38"/>
+      <stop offset="0.45" stop-color="#11233C"/>
+      <stop offset="1" stop-color="#1B153B"/>
+    </linearGradient>
+
+    <linearGradient id="card2" x1="585" y1="170" x2="1020" y2="550" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#261231"/>
+      <stop offset="0.5" stop-color="#1C1B48"/>
+      <stop offset="1" stop-color="#0E3140"/>
+    </linearGradient>
+
+    <linearGradient id="titleGrad" x1="340" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="0.3" stop-color="#00FF9C"/>
+      <stop offset="0.62" stop-color="#B84DFF"/>
+      <stop offset="1" stop-color="#FF3CAC"/>
+    </linearGradient>
+
+    <linearGradient id="barGreen" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00E676"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+    <linearGradient id="barBlue" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2979FF"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+    <linearGradient id="barOrange" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#FF9100"/>
+      <stop offset="1" stop-color="#FFD600"/>
+    </linearGradient>
+    <linearGradient id="barPurple" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#7C4DFF"/>
+      <stop offset="1" stop-color="#FF3CAC"/>
+    </linearGradient>
+    <linearGradient id="barPink" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#FF1744"/>
+      <stop offset="1" stop-color="#FF3CAC"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+
+    <filter id="glowCyan" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowPink" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1100" height="640" rx="34" fill="url(#bg)"/>
+
+  <!-- Decorative neon blobs -->
+  <circle cx="115" cy="95" r="70" fill="#00E5FF" opacity="0.08"/>
+  <circle cx="990" cy="95" r="85" fill="#FF3CAC" opacity="0.08"/>
+  <circle cx="550" cy="610" r="110" fill="#7C4DFF" opacity="0.06"/>
+
+  <!-- Title -->
+  <text x="550" y="82" text-anchor="middle" fill="url(#titleGrad)"
+        font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="800">
+    CORE EXPERTISE
+  </text>
+  <text x="550" y="118" text-anchor="middle" fill="#9FB6CC"
+        font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">
+    Productivity • Data • Creative Design
+  </text>
+
+  <!-- 3D back plates -->
+  <rect x="94" y="183" width="432" height="370" rx="26" fill="#020812" opacity="0.92"/>
+  <rect x="594" y="183" width="432" height="370" rx="26" fill="#020812" opacity="0.92"/>
+
+  <!-- Cards -->
+  <g filter="url(#shadow)">
+    <rect x="72" y="158" width="432" height="370" rx="26" fill="url(#card1)" stroke="#00E5FF" stroke-opacity="0.52" stroke-width="1.5"/>
+    <rect x="572" y="158" width="432" height="370" rx="26" fill="url(#card2)" stroke="#FF3CAC" stroke-opacity="0.52" stroke-width="1.5"/>
+  </g>
+
+  <!-- Gloss highlights -->
+  <path d="M98 159H478C492 159 503 171 503 185V201C421 174 276 163 98 177Z" fill="white" opacity="0.045"/>
+  <path d="M598 159H978C992 159 1003 171 1003 185V201C921 174 776 163 598 177Z" fill="white" opacity="0.045"/>
+
+  <!-- Left header -->
+  <circle cx="116" cy="213" r="20" fill="#00E5FF" opacity="0.14" filter="url(#glowCyan)"/>
+  <text x="116" y="220" text-anchor="middle" fill="#66F6FF" font-size="22" font-family="Segoe UI Emoji, Segoe UI, sans-serif">▥</text>
+  <text x="150" y="220" fill="#F4FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="750">
+    Productivity &amp; Data
+  </text>
+  <text x="150" y="246" fill="#7FD9E6" font-family="Segoe UI, Arial, sans-serif" font-size="13">
+    ORGANIZE • ANALYZE • DELIVER
+  </text>
+
+  <!-- Right header -->
+  <circle cx="616" cy="213" r="20" fill="#FF3CAC" opacity="0.14" filter="url(#glowPink)"/>
+  <text x="616" y="220" text-anchor="middle" fill="#FF79C8" font-size="22" font-family="Segoe UI Emoji, Segoe UI, sans-serif">✦</text>
+  <text x="650" y="220" fill="#FDF7FF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="750">
+    Creative Design
+  </text>
+  <text x="650" y="246" fill="#D78CE8" font-family="Segoe UI, Arial, sans-serif" font-size="13">
+    DESIGN • POLISH • IMPACT
+  </text>
+
+  <!-- LEFT SKILLS -->
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="105" y="294" fill="#E8F7FB" font-size="15" font-weight="650">Microsoft Excel</text>
+    <text x="465" y="294" fill="#65F4B3" font-size="14" text-anchor="end" font-weight="800">90%</text>
+    <rect x="105" y="307" width="360" height="12" rx="6" fill="#0A1321"/>
+    <rect x="105" y="307" width="324" height="12" rx="6" fill="url(#barGreen)"/>
+    <rect x="105" y="307" width="324" height="4" rx="2" fill="white" opacity="0.16"/>
+
+    <text x="105" y="348" fill="#E8F7FB" font-size="15" font-weight="650">Data Management</text>
+    <text x="465" y="348" fill="#65D7FF" font-size="14" text-anchor="end" font-weight="800">90%</text>
+    <rect x="105" y="361" width="360" height="12" rx="6" fill="#0A1321"/>
+    <rect x="105" y="361" width="324" height="12" rx="6" fill="url(#barBlue)"/>
+    <rect x="105" y="361" width="324" height="4" rx="2" fill="white" opacity="0.16"/>
+
+    <text x="105" y="402" fill="#E8F7FB" font-size="15" font-weight="650">Data Entry</text>
+    <text x="465" y="402" fill="#FFD76B" font-size="14" text-anchor="end" font-weight="800">80%</text>
+    <rect x="105" y="415" width="360" height="12" rx="6" fill="#0A1321"/>
+    <rect x="105" y="415" width="288" height="12" rx="6" fill="url(#barOrange)"/>
+    <rect x="105" y="415" width="288" height="4" rx="2" fill="white" opacity="0.16"/>
+
+    <text x="105" y="456" fill="#E8F7FB" font-size="15" font-weight="650">Document Formatting</text>
+    <text x="465" y="456" fill="#CE88FF" font-size="14" text-anchor="end" font-weight="800">90%</text>
+    <rect x="105" y="469" width="360" height="12" rx="6" fill="#0A1321"/>
+    <rect x="105" y="469" width="324" height="12" rx="6" fill="url(#barPurple)"/>
+    <rect x="105" y="469" width="324" height="4" rx="2" fill="white" opacity="0.16"/>
+
+    <text x="105" y="510" fill="#E8F7FB" font-size="15" font-weight="650">File Organization</text>
+    <text x="465" y="510" fill="#FF75B7" font-size="14" text-anchor="end" font-weight="800">80%</text>
+    <rect x="105" y="523" width="360" height="12" rx="6" fill="#0A1321"/>
+    <rect x="105" y="523" width="288" height="12" rx="6" fill="url(#barPink)"/>
+  </g>
+
+  <!-- RIGHT SKILLS -->
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="605" y="294" fill="#FFF3FB" font-size="15" font-weight="650">Photoshop</text>
+    <text x="965" y="294" fill="#5FCBFF" font-size="14" text-anchor="end" font-weight="800">80%</text>
+    <rect x="605" y="307" width="360" height="12" rx="6" fill="#111122"/>
+    <rect x="605" y="307" width="288" height="12" rx="6" fill="url(#barBlue)"/>
+    <rect x="605" y="307" width="288" height="4" rx="2" fill="white" opacity="0.16"/>
+
+    <text x="605" y="348" fill="#FFF3FB" font-size="15" font-weight="650">Illustrator</text>
+    <text x="965" y="348" fill="#FFD270" font-size="14" text-anchor="end" font-weight="800">70%</text>
+    <rect x="605" y="361" width="360" height="12" rx="6" fill="#111122"/>
+    <rect x="605" y="361" width="252" height="12" rx="6" fill="url(#barOrange)"/>
+    <rect x="605" y="361" width="252" height="4" rx="2" fill="white" opacity="0.16"/>
+
+    <text x="605" y="402" fill="#FFF3FB" font-size="15" font-weight="650">Banner Design</text>
+    <text x="965" y="402" fill="#FF76C4" font-size="14" text-anchor="end" font-weight="800">80%</text>
+    <rect x="605" y="415" width="360" height="12" rx="6" fill="#111122"/>
+    <rect x="605" y="415" width="288" height="12" rx="6" fill="url(#barPink)"/>
+    <rect x="605" y="415" width="288" height="4" rx="2" fill="white" opacity="0.16"/>
+
+    <text x="605" y="456" fill="#FFF3FB" font-size="15" font-weight="650">Poster Design</text>
+    <text x="965" y="456" fill="#CC8BFF" font-size="14" text-anchor="end" font-weight="800">80%</text>
+    <rect x="605" y="469" width="360" height="12" rx="6" fill="#111122"/>
+    <rect x="605" y="469" width="288" height="12" rx="6" fill="url(#barPurple)"/>
+    <rect x="605" y="469" width="288" height="4" rx="2" fill="white" opacity="0.16"/>
+
+    <text x="605" y="510" fill="#FFF3FB" font-size="15" font-weight="650">Presentation Design</text>
+    <text x="965" y="510" fill="#FF84B8" font-size="14" text-anchor="end" font-weight="800">90%</text>
+    <rect x="605" y="523" width="360" height="12" rx="6" fill="#111122"/>
+    <rect x="605" y="523" width="324" height="12" rx="6" fill="url(#barPink)"/>
+  </g>
+
+  <!-- Bottom glow line -->
+  <rect x="310" y="588" width="480" height="3" rx="1.5" fill="url(#titleGrad)" opacity="0.9"/>
+  <text x="550" y="616" text-anchor="middle" fill="#7F95AB"
+        font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+    MD. ABDUR RAHMAN • CREATIVE TECHNOLOGY PROFILE
+  </text>
+</svg>
