@@ -74,11 +74,11 @@ I enjoy transforming raw information and ideas into work that is **organized, pr
 
 </td>
 
-<td width="42%" align="center">
+<td width="50%" align="center">
 
 <br>
 
-<img width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br><br>
 
