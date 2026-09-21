@@ -506,8 +506,8 @@ General IT Support
 
 <div align="center">
 
-### ⭐ `THANK YOU FOR VISITING` ⭐
-
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=820&height=65&lines=✨THANK+YOU+FOR+VISITING✨;
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:FF006E,35:C800FF,65:6C2BFF,100:00E5FF"/>
