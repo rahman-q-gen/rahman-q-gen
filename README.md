@@ -494,7 +494,8 @@ General IT Support
 
 <div align="center">
 <span style="font-size:24px;">✉️</span> md.abdur.rahman.career@gmail.com
-💻 `github.com/rahman-q-gen`
+  <br>
+🌐 github.com/rahman-q-gen
 
 <br>
 
