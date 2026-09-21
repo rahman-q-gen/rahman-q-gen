@@ -504,7 +504,7 @@ General IT Support
 <br>
 
 
-
+<div align="center">
 
 ### ⭐ `THANK YOU FOR VISITING` ⭐
 
