@@ -493,9 +493,9 @@ General IT Support
 
 
 <div align="center">
-### 📧 `md.abdur.rahman.career@gmail.com`
+📧 `md.abdur.rahman.career@gmail.com`
 
-### 💻 `github.com/rahman-q-gen`
+💻 `github.com/rahman-q-gen`
 
 <br>
 
